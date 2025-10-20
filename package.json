@@ -1,0 +1,17 @@
+{
+  "name": "stashaway",
+  "version": "1.0.0",
+  "description": "StashAway assessment project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@jest/globals": "^30.2.0",
+    "typescript": "^5.9.3"
+  }
+}
